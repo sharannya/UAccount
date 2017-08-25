@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UAccount</string>
+
+    <string name="credit_title">Credit Card Accounts</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">Hello ,</string>
+    <string name="list_empty">No information available</string>
+    <string name="text_iban_header">IBan No:</string>
+    <string name="text_account_name">Acct Name:</string>
+    <string name="widget_title">UAccount Credit Card</string>
+    <string name="amount_format" formatted="false">Account Bal :%1s %2s</string>
+    <string name="text_format" formatted="false">%1s: %2s</string>
+    <string name="euro" formatted="false">\u20ac</string>
+    <color name="widget_header">#bbDEDFDE</color>
+</resources>
